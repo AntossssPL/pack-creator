@@ -27,11 +27,10 @@ The tool will process the images and download a `[PackName]_MassPack.zip` file d
 
 ## 🌐 Hosting on GitHub Pages
 Want to share this tool with others? 
-1. Create a new GitHub repository.
-2. Upload `mass_pack_creator.html` and rename it to `index.html`.
-3. Go to **Settings > Pages**.
-4. Select the `main` branch and hit Save.
-5. In a few minutes, your Mass Pack Creator will be live on the web!
+Drop them a link !
+BUT IF YOU WANT TO POST THIS ON DISCORD's CONTACT OWNER FOR PERMISSION
 
 ## 📜 Credits
-Based on the original pack creator logic for *Snapshot / Lewd Shores*, completely reimagined for mass AI generation workflows.
+Based on the original pack creator logic for *Snapshot / Lewd Shores*, completely reimagined for mass generation workflows.
+
+github.com/AntossssPL
