@@ -297,11 +297,17 @@
             <button id="generate-btn" class="generate-btn" disabled>Generate Pack (.ZIP)</button>
 
             <div class="progress-container" id="progress-container">
-                <div class="spinner"></div>
-                <div class="status-text" id="status-text">Packing files... please wait.</div>
-            </div>
+            <div class="spinner"></div>
+            <div class="status-text" id="status-text">Packing files... please wait.</div>
         </div>
     </div>
+    
+    <div style="text-align: center; margin-top: 20px; font-size: 0.9rem;">
+        <a href="https://github.com/AntossssPL" target="_blank" style="color: var(--text-muted); text-decoration: none; font-weight: 500; transition: color 0.3s ease;" onmouseover="this.style.color='var(--primary)'" onmouseout="this.style.color='var(--text-muted)'">
+            Created by <span style="color: var(--primary); font-weight: bold;">AntossssPL</span>
+        </a>
+    </div>
+</div>
 
     <script>
         const dropzone = document.getElementById('dropzone');
@@ -470,9 +476,6 @@
         });
     </script>
 
-    <p style="text-align: center; margin-bottom: 20px; font-size: 0.9rem;">
-                <a href="https://github.com/AntossssPL" target="_blank"
-                    style="color: var(--primary); text-decoration: none; font-weight: bold;">Owner Github</a>
 </body>
 
 </html>
